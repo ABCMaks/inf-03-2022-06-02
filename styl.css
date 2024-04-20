@@ -1,0 +1,42 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    font-family: Cambria;
+    text-align: center;
+    
+}
+footer,#baner{
+background-color: rgb(120, 0, 46);
+color: white;
+padding: 5px;
+font-size: 150%;
+}
+#menu{
+    background-color: rgb(173, 20, 87);
+    text-align: left;
+}
+#lewy{
+    background-color: snow;
+    color: olivedrab;
+    width: 60%;
+    height: 322px;
+    float: left;
+}
+#prawy{
+    background-color: rgb(173, 20, 87);
+    width: 40%;
+    height: 322px;
+    float: right;
+}
+#auto:hover{
+    border: dotted, 1px, yellowgreen;
+}
+table,tr{
+    border: solid , 1px , olivedrab;
+}
+table{
+    width: 90%;
+}
